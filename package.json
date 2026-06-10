@@ -1,0 +1,17 @@
+{
+  "name": "grimorio-arcano",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Grimorio local-first para controle de magias em mesa de D&D.",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node build.js"
+  },
+  "keywords": [
+    "dnd",
+    "grimorio",
+    "spells",
+    "local-first"
+  ],
+  "license": "UNLICENSED"
+}
